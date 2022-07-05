@@ -20,3 +20,7 @@ CNN:-
 
 
 TF_IDF:- https://towardsdatascience.com/tf-term-frequency-idf-inverse-document-frequency-from-scratch-in-python-6c2b61b78558
+
+
+https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial
+https://www.section.io/engineering-education/classification-model-using-bert-and-tensorflow/
